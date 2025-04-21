@@ -49,13 +49,8 @@
     <a href="https://x.com/GOPICHAND1231" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
-    <a href="https://leetcode.com/yourleetcode" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-%23F9A825.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-    </a>
-    <a href="https://www.hackerrank.com/yourhackerrank" target="_blank">
-      <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-    </a>
-    <a href="mailto:thegopichand@gmail.com">
+                                                                                 
+  <a href="mailto:thegopichand@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
   </p>
@@ -99,9 +94,7 @@
     <a href="https://www.buymeacoffee.com/gopichand">
       <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="Buy Me a Coffee" />
     </a>
-    <a href="https://ko-fi.com/gopichand">
-      <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="45" width="170" alt="Ko-fi" />
-    </a>
+    
   </p>
 </div>
 
